@@ -55,7 +55,7 @@ function playSound (q) {
 
 function sound(Sname)
 {
-    var s= new Audio("sounds/"+Sname+".mp3");
+    var s= new Audio(Sname+".mp3");
     s.play();
 }
 
