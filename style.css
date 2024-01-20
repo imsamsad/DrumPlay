@@ -34,32 +34,32 @@ button{
     border: px solid rgb(0, 0, 0);
 }
 .w{
-    background-image: url("./images/tom3.png");
+    background-image: url("./tom3.png");
     background-size: contain;
 }
 .e{
-    background-image: url("./images/snare.png");
+    background-image: url("./snare.png");
     background-size: contain;
     color: ;
 }
 .r{
-    background-image: url("./images/tom1.png");
+    background-image: url("./tom1.png");
     background-size: contain;
     background-color: white;
 }
 .t{
-    background-image: url("./images/crash.png");
+    background-image: url("./crash.png");
     background-size: contain;
 }
 .y{
         
-        background-image: url("./images/kick.png");
+        background-image: url("./kick.png");
         background-size: contain;
 
 }
 
 .d{
-    background-image: url("./images/tom4.png");
+    background-image: url("./tom4.png");
     background-size: contain;
 }
 .clicked{
